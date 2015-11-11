@@ -1,0 +1,10 @@
+0: Autosave
+1: Kike playing
+2: New Game
+3: New Game
+4: New Game
+5: New Game
+6: New Game
+7: New Game
+8: New Game
+9: New Game

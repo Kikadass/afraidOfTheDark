@@ -1,0 +1,7 @@
+: idioma
+: resolucion
+: volumen general
+: volumen de la musica
+: volumen del mundo
+: brillo
+: Salir

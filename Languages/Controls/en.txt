@@ -1,0 +1,10 @@
+: jump
+: up
+: down
+: left
+: right
+: sprint
+: inventory
+: torch
+: drop
+: interact

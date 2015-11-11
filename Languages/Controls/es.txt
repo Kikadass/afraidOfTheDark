@@ -1,0 +1,10 @@
+: saltar
+: arriba
+: abajo
+: izquierda
+: derecha
+: correr
+: innventario
+: antorcha
+: soltar
+: interactuar

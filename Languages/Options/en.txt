@@ -1,0 +1,7 @@
+: language
+: resolution
+: master volume
+: music volume
+: world volume
+: brightness
+: quit

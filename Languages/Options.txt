@@ -1,0 +1,7 @@
+language: en.txt
+resolution: 720
+resolution changed: 0
+master volume: 0
+music volume: 50
+world volume: 50
+brightness: 42
